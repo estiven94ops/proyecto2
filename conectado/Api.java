@@ -103,7 +103,7 @@ public class Api extends Thread {
           main prueba_lider = new main();
           server = "";
           
-      	FileReader reader = new FileReader("E:\\USUARIOS\\UEES\\Sistemas Distribuidos\\conectado\\conectado\\src\\properties//archive.properties");
+      	FileReader reader = new FileReader("/home/nodo3/proyecto2/properties/archive.properties");
   		
     		Properties c = new Properties();
     		
