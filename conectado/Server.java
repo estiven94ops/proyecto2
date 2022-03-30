@@ -36,7 +36,7 @@ class Server extends Thread{
   
         try {
         	
-        	FileReader reader = new FileReader("/home/nodo3/proyecto2/properties/archive.properties");
+        	FileReader reader = new FileReader("/home/nodo?4/proyecto2/properties/archive.properties");
       		
     		Properties c = new Properties();
     		
