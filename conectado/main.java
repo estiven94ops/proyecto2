@@ -15,7 +15,7 @@ public class main {
 	
     public static void main(String[] args) throws IOException{
     	
-    	FileReader reader = new FileReader("E:\\USUARIOS\\UEES\\Sistemas Distribuidos\\conectado\\conectado\\src\\properties//archive.properties");
+    	FileReader reader = new FileReader("/home/nodo3/proyecto2/properties/archive.properties");
   		
   		Properties c = new Properties();
   		
